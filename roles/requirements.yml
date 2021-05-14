@@ -1,5 +1,5 @@
 ---
 
 - name: apache
-  src: ssh://git@github.com:buzdu-luigi/apache.git
+  src: git+ssh://git@github.com:buzdu-luigi/apache.git
   version: develop
