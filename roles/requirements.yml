@@ -1,0 +1,5 @@
+---
+
+- name: apache
+  src: git@github.com:buzdu-luigi/apache.git
+  version: develop
