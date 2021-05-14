@@ -3,3 +3,6 @@
 - name: apache
   src: git+ssh://git@github.com/buzdu-luigi/apache.git
   version: develop
+- name: python
+  src: git+ssh://git@github.com/buzdu-luigi/python.git
+  version: develop
