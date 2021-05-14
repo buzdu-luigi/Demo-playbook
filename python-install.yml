@@ -4,6 +4,10 @@
   connection: local
   roles:
     - python
+      pyfsrc_version: 3.6.2
+      pyfsrc_make_default: yes
+      pyfsrc_ssl_support: yes
+      pyfsrc_install_pip: yes
   become: true
   become_user: root
   become_method: su
