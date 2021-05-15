@@ -1,8 +1,10 @@
 ---
 
 - name: apache
-  src: git+ssh://git@github.com/buzdu-luigi/apache.git
+  src: https://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@github.com/buzdu-luigi/apache.git
   version: develop
+  scm: git
 - name: python
-  src: git+ssh://git@github.com/buzdu-luigi/python.git
+  src: https://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@github.com/buzdu-luigi/python.git
   version: develop
+  scm: git
